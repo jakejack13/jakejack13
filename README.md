@@ -18,7 +18,7 @@
 - [JayJay](https://github.com/): A Discord bot built with discord<span>.<span>py (a pet project of mine)
 - [TheTake](https://thetake.ai/): Proprietary search algorithm analysis and integration tests for TheTake
 - [DimensionalReduction](https://github.com/jakejack13/DimensionalReduction): Porting and analysis of various dimensional reduction algorithms in MATLAB, developed for Sjulson Lab
-- critterworld: animal simulation with programmable animal behavior, created for CS 2112 (private repository, available upon request)
+- [critterworld](https://github.com/MitchellGray100/Critter-World-README): animal simulation with programmable animal behavior, created for CS 2112 (private repository, available upon request)
 - [uno](https://github.com/jakejack13/uno): Command line based uno in OCaml, created for CS 3110
 - [buzcode](https://github.com/buzsakilab/buzcode): Contributions to the neuronal data processign MATLAB package from the Buzsaki Lab
 
