@@ -5,13 +5,13 @@
 - I'm interested in all aspects of software engineering, including design, implementation, testing, and deployment
 
 ### I'm currently learning
+- Low level memory management with C (CS 3410, Cornell)
+- Analysis of algorithms (CS 4820, Cornell)
 - CI/CD pipelines (Semaphore)
 - Containerization (Docker)
-- Server-side JavaScript (Node)
 
 ### I'm currently working on
 - Maintaining my Python package [gachapy](https://github.com/jakejack13/gachapy)
-- Small examples of fully deployed web servers using Node, Docker, and Semaphore [here](https://github.com/jakejack13/counter) and [here](https://github.com/jakejack13/deployment-test)
 
 ### I've worked on
 - [gachapy](https://github.com/jakejack13/gachapy): A gacha engine for developing gacha games in Python
@@ -22,10 +22,16 @@
 - [uno](https://github.com/jakejack13/uno): Command line based uno in OCaml, created for CS 3110
 - [buzcode](https://github.com/buzsakilab/buzcode): Contributions to the neuronal data processign MATLAB package from the Buzsaki Lab
 
+### I've worked with
+- [Mitchell Gray](https://github.com/MitchellGray100): software engineering teammate (and roommate)
+- [TheTake](https://thetake.ai/): AI concentrated startup specializing in bringing shopping experiences to home entertainment
+- [Brain Computation Lab](https://braincomputation.org/): computational neuroscience lab at Cornell University
+- [Sjulson Lab](https://sjulsonlab.org/): neuroscience lab at the Albert Einstein College of Medicine
+
 ### My Skills
-- Proficient languages: Java, Python, OCaml, MATLAB, Bash, SQL
-- Familiar languages: JavaScript, HTML, CSS, R, C, C#
-- Tools: Git, Docker, AWS, Unix/Linux
+- Proficient languages: Java, Python, OCaml, MATLAB, Bash, SQL, C
+- Familiar languages: JavaScript, HTML, CSS, R, C#, Lua, Verilog
+- Tools: Git, Docker, AWS, Unix/Linux, Semaphore
 
 ### How to reach me
 - Professional inquries: jck268 at cornell dot edu
