@@ -5,13 +5,16 @@
 - I'm interested in all aspects of software engineering, including design, implementation, testing, and deployment
 
 ### I'm currently learning
-- Low level memory management with C (CS 3410, Cornell)
+- Low level programming with C (CS 3410, Cornell)
 - Analysis of algorithms (CS 4820, Cornell)
 - CI/CD pipelines (Semaphore)
 - Containerization (Docker)
 
 ### I'm currently working on
 - Maintaining my Python package [gachapy](https://github.com/jakejack13/gachapy)
+
+### Ask me about
+- How to make scalable backend systems!
 
 ### I've worked on
 - [gachapy](https://github.com/jakejack13/gachapy): A gacha engine for developing gacha games in Python
@@ -31,7 +34,7 @@
 ### My Skills
 - Proficient languages: Java, Python, OCaml, MATLAB, Bash, SQL, C
 - Familiar languages: JavaScript, HTML, CSS, R, C#, Lua, Verilog
-- Tools: Git, Docker, AWS, Unix/Linux, Semaphore
+- Tools: Git, Docker, AWS, Unix/Linux, Semaphore (CI/CD)
 
 ### How to reach me
 - Professional inquries: jck268 at cornell dot edu
