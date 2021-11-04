@@ -12,7 +12,7 @@
 - TypeScript
 
 ### I'm currently working on
-- [JayJayTwitch](https://github.com/jakejack13/JayJayTwitch) a Twitch bot and an extension of the [JayJay Project](https://github.com/jakejack13/JayJay-Bot) that will provide more interactivity to my [Twitch streams](https://twitch.tv/JakeJack)
+- The frontend components of my Twitch bot [JayJayTwitch](https://github.com/jakejack13/JayJayTwitch)
 - Maintaining my Python package [gachapy](https://github.com/jakejack13/gachapy)
 
 ### Ask me about
