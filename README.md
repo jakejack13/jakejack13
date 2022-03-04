@@ -7,12 +7,11 @@
 - I stream every Saturdays at 12 p.m. EST on [Twitch](https://twitch.tv/JakeJack)
 
 ### I'm currently learning
-- Low level programming with C (CS 3410, Cornell)
-- Analysis of algorithms (CS 4820, Cornell)
-- TypeScript
+- Operating Systems (CS 4410, Cornell)
+- Artificial Intelligence (CS 4700, Cornell)
 
 ### I'm currently working on
-- The frontend components of my Twitch bot [JayJayTwitch](https://github.com/jakejack13/JayJayTwitch)
+- The frontend components of my Twitch alerts system [JayJayAlerts](https://github.com/jakejack13/JayJayAlerts)
 - Maintaining my Python package [gachapy](https://github.com/jakejack13/gachapy)
 
 ### Ask me about
@@ -23,7 +22,7 @@
 #### personal projects
 - [gachapy](https://github.com/jakejack13/gachapy): A gacha engine for developing gacha games in Python
 - [JayJay](https://github.com/jakejack13/JayJay-Bot): A Discord bot built with discord<span>.<span>py, the original iteration of the JayJay Project
-- [JayJayTwitch](https://github.com/jakejack13/JayJayTwitch): A Twitch bot built with tmi<span>.</span>js and accompanying app built with Electron that provides graphical alerts to Twitch streams based on activity in chat, an extension of the JayJay Project
+- [JayJayAlerts](https://github.com/jakejack13/JayJayAlerts): A Twitch alerts and animations service, created for and by https://twitch.tv/JakeJack
 #### projects for organizations
 - [TheTake](https://thetake.ai/): Proprietary search algorithm analysis and integration tests for TheTake
 - [DimensionalReduction](https://github.com/jakejack13/DimensionalReduction): Porting and analysis of various dimensional reduction algorithms in MATLAB, developed for Sjulson Lab
@@ -35,17 +34,35 @@
 
 ### I've worked with
 #### people
-- [Mitchell Gray](https://github.com/MitchellGray100): fullstack engineer (and roommate) on various projects, both school and personal
-- [Warren Yun](https://github.com/NebuDev14): fullstack engineer that helped with later iterations of the JayJay Project
+- [Mitchell Gray](https://github.com/MitchellGray100): fullstack engineer (and roommate),  worked on various projects, both school and personal
+- [Warren Yun](https://github.com/NebuDev14): fullstack engineer, helped with later iterations of the JayJay Project
 #### organizations
 - [TheTake](https://thetake.ai/): AI concentrated startup specializing in bringing shopping experiences to home entertainment
 - [Brain Computation Lab](https://braincomputation.org/): computational neuroscience lab at Cornell University
 - [Sjulson Lab](https://sjulsonlab.org/): neuroscience lab at the Albert Einstein College of Medicine
 
 ### My Skills
-- Proficient languages: Java, Python, OCaml, MATLAB, Bash, SQL, C, TypeScript/JavaScript
+- Proficient languages: Java, Python, C, TypeScript/JavaScript, OCaml, MATLAB, Bash, SQL
 - Familiar languages: HTML, CSS, R, C#, Lua, Verilog
-- Tools: Git, Docker, AWS, Unix/Linux, Semaphore (CI/CD)
+- Tools: Git, Docker, AWS, Unix/Linux, CI/CD (Semaphore, GitHub Workflows)
+
+### My Classes
+#### Computer Science (Major)
+- CS 2112: Honors Object Oriented Programming and Data Structures
+- CS 2800: Discrete Structures
+- CS 3110: Data Structures and Functional Programming
+- CS 3410: Computer Systems Programming
+- CS 4820: Introduction to Algorithms 
+- CS 4410: Operating Systems
+- CS 4700: Artificial Intelligence
+#### Operations Research and Information Engineering (Minor)
+- ENGRI 1101: Introduction to Operations Research
+- ORIE 3120: Tools for Machine Learning, Data Science, and Operations Research
+- ORIE 4120: Inventory, Operations, and Supply Chain Management
+#### Others
+- MATH 1920: Multivariable Calculus
+- MATH 2930: Linear Algebra
+- MATH 2940: Differential Equations
 
 ### How to reach me
 - Professional inquries: jck268 at cornell dot edu
