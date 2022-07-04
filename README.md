@@ -1,18 +1,16 @@
 ## Hi, I'm Jacob
 
 ### About Me
-- I'm a sophomore at Cornell University's College of Engineering studying computer science
+- I'm a rising junior at Cornell University's College of Engineering studying computer science
 - I'm a backend engineer with fullstack capabilities
 - I'm interested in all aspects of software engineering, including design, implementation, testing, and deployment
 - I stream every Saturdays at 12 p.m. EST on [Twitch](https://twitch.tv/JakeJack)
 
 ### I'm currently learning
-- Operating Systems (CS 4410, Cornell)
-- Artificial Intelligence (CS 4700, Cornell)
+- C++
 
 ### I'm currently working on
-- The frontend components of my Twitch alerts system [JayJayAlerts](https://github.com/jakejack13/JayJayAlerts)
-- Maintaining my Python package [gachapy](https://github.com/jakejack13/gachapy)
+- A Discord bot to play any Gameboy game on a Discord server, [PokeJay](https://github.com/jakejack13/PokeJay), an extension of the JayJay Project
 
 ### Ask me about
 - How to make scalable backend systems
@@ -42,7 +40,7 @@
 - [Sjulson Lab](https://sjulsonlab.org/): neuroscience lab at the Albert Einstein College of Medicine
 
 ### My Skills
-- Proficient languages: Java, Python, C, TypeScript/JavaScript, OCaml, MATLAB, Bash, SQL
+- Proficient languages: Java, Python, C, C++, TypeScript/JavaScript, OCaml, MATLAB, Bash, SQL
 - Familiar languages: HTML, CSS, R, C#, Lua, Verilog
 - Tools: Git, Docker, AWS, Unix/Linux, CI/CD (Semaphore, GitHub Workflows)
 
