@@ -1,26 +1,30 @@
 ## Hi, I'm Jacob
 
 ### About Me
-- I'm a rising junior at Cornell University's College of Engineering studying computer science
+- I'm a rising junior at Cornell University's College of Engineering majoring in computer science and minoring in operations research and information engineering (ORIE)
 - I'm a backend engineer with fullstack capabilities
 - I'm interested in all aspects of software engineering, including design, implementation, testing, and deployment
 - I stream every Saturdays at 12 p.m. EST on [Twitch](https://twitch.tv/JakeJack)
 
 ### I'm currently learning
 - C++
+- Device drivers
 
 ### I'm currently working on
-- A Discord bot to play any Gameboy game on a Discord server, [PokeJay](https://github.com/jakejack13/PokeJay), an extension of the JayJay Project
+- [sos](https://github.com/jakejack13/sos), a minimalistic operating system designed to run on a Raspberry Pi 4
 
 ### Ask me about
 - How to make scalable backend systems
 - Good design and documentation patterns
+- Bare metal software
 
 ### I've worked on
 #### personal projects
 - [gachapy](https://github.com/jakejack13/gachapy): A gacha engine for developing gacha games in Python
 - [JayJay](https://github.com/jakejack13/JayJay-Bot): A Discord bot built with discord<span>.<span>py, the original iteration of the JayJay Project
 - [JayJayAlerts](https://github.com/jakejack13/JayJayAlerts): A Twitch alerts and animations service, created for and by https://twitch.tv/JakeJack
+- [sos](https://github.com/jakejack13/sos), a minimalistic operating system designed to run on a Raspberry Pi 4
+- [jip](https://github.com/jakejack13/jip), simple compression with Huffman encoding
 #### projects for organizations
 - [TheTake](https://thetake.ai/): Proprietary search algorithm analysis and integration tests for TheTake
 - [DimensionalReduction](https://github.com/jakejack13/DimensionalReduction): Porting and analysis of various dimensional reduction algorithms in MATLAB, developed for Sjulson Lab
@@ -46,6 +50,7 @@
 
 ### My Classes
 #### Computer Science (Major)
+- CS 2043: Unix Tools and Scripting
 - CS 2112: Honors Object Oriented Programming and Data Structures
 - CS 2800: Discrete Structures
 - CS 3110: Data Structures and Functional Programming
