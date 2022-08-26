@@ -32,6 +32,7 @@
 #### projects for classes
 - [critterworld](https://github.com/MitchellGray100/Critter-World-README): animal simulation with programmable animal behavior, created for CS 2112 (private repository, available upon request)
 - [uno](https://github.com/jakejack13/uno): Command line based uno in OCaml, created for CS 3110
+- [egos](https://github.com/MitchellGray100/egos): operating system that runs in userspace on a host OS, created for CS 4411 (private repository, available upon request)
 
 
 ### I've worked with
@@ -44,9 +45,9 @@
 - [Sjulson Lab](https://sjulsonlab.org/): neuroscience lab at the Albert Einstein College of Medicine
 
 ### My Skills
-- Proficient languages: Java, Python, C, C++, TypeScript/JavaScript, OCaml, MATLAB, Bash, SQL
-- Familiar languages: HTML, CSS, R, C#, Lua, Verilog
-- Tools: Git, Docker, AWS, Unix/Linux, CI/CD (Semaphore, GitHub Workflows)
+- Proficient languages: Java, Python, C, TypeScript/JavaScript, OCaml, MATLAB, Bash, SQL
+- Familiar languages: HTML, CSS, R, C#, C++, Lua, Verilog
+- Tools: Git, Docker, AWS, Azure, Unix/Linux, CI/CD (Semaphore, GitHub Workflows), CLI
 
 ### My Classes
 #### Computer Science (Major)
@@ -55,12 +56,15 @@
 - CS 2800: Discrete Structures
 - CS 3110: Data Structures and Functional Programming
 - CS 3410: Computer Systems Programming
-- CS 4820: Introduction to Algorithms 
+- CS 4320: Databases
 - CS 4410: Operating Systems
 - CS 4700: Artificial Intelligence
+- CS 4820: Introduction to Algorithms
+- CS 5412: Cloud Computing
 #### Operations Research and Information Engineering (Minor)
 - ENGRI 1101: Introduction to Operations Research
 - ORIE 3120: Tools for Machine Learning, Data Science, and Operations Research
+- ORIE 3300: Optimization I
 - ORIE 4120: Inventory, Operations, and Supply Chain Management
 #### Others
 - MATH 1920: Multivariable Calculus
