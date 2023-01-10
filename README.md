@@ -74,6 +74,7 @@
 - CS 5412: Cloud Computing
 #### Operations Research and Information Engineering (Minor)
 - ENGRI 1101: Introduction to Operations Research
+- ENGRD 2700: Engineering Statistics I
 - ORIE 3120: Tools for Machine Learning, Data Science, and Operations Research
 - ORIE 3300: Optimization I
 - ORIE 4120: Inventory, Operations, and Supply Chain Management
