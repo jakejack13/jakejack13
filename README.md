@@ -1,20 +1,18 @@
 ## Hi, I'm Jacob
 
 ### About Me
-- I'm a junior at Cornell University's College of Engineering majoring in computer science and minoring in operations research and information engineering (ORIE)
+- I'm a rising senior at Cornell University's College of Engineering majoring in computer science and minoring in operations research and information engineering (ORIE)
+- I'm currently a software engineering intern at Addepar doing fullstack work on the end client experience team
 - I'm a backend engineer with fullstack capabilities
 - I'm interested in systems programming, distributed computing, and cloud computing and systems
 - I'm interested in all aspects of software engineering, including design, implementation, testing, and deployment
-- I stream every Saturdays at 12 p.m. EST on [Twitch](https://twitch.tv/JakeJack)
 
 ### I'm currently learning
-- Rust
-- Device drivers
 - Systems programming
 - Stateless (lambda) programming
 
 ### I'm currently working on
-- [sos](https://github.com/jakejack13/sos), a minimalistic operating system designed to run on a Raspberry Pi 4
+- Addepar!
 
 ### Ask me about
 - Distributed systems and cloud computing
@@ -31,12 +29,13 @@
 - [JayJayAlerts](https://github.com/jakejack13/JayJayAlerts): A Twitch alerts and animations service, created for and by https://twitch.tv/JakeJack
 - [jip](https://github.com/jakejack13/jip), simple compression with Huffman encoding
 #### projects for organizations
+- [Addepar](https://addepar.com/): various new features on and improvements of end client experience 
 - [Lockheed Martin](https://www.lockheedmartin.com/): see my LinkedIn or my resume for more information
 - [TheTake](https://thetake.ai/): Proprietary search algorithm analysis and integration tests for TheTake
 - [DimensionalReduction](https://github.com/jakejack13/DimensionalReduction): Porting and analysis of various dimensional reduction algorithms in MATLAB, developed for Sjulson Lab
 - [buzcode](https://github.com/buzsakilab/buzcode): Contributions to the neuronal data processign MATLAB package from the Buzsaki Lab
 #### projects for classes
-- [Cornell Meetup](https://github.com/MitchellGray100/CornellMeetUp): a location-based social networking and messaging platform for college students to coordinate events and meetings with friends
+- [Cornell Meetup](https://github.com/MitchellGray100/CornellMeetUp): a location-based social networking and messaging platform for college students to coordinate events and meetings with friends (featured at Cornell BOOM 2023)
 - [DBMS](https://github.com/MitchellGray100/DBMS): a SQL-based database management system implemented from scratch in Java, created for CS 4321 (private repository, available upon request)
 - [egos](https://github.com/MitchellGray100/egos): operating system that runs in userspace on a host OS, created for CS 4411 (private repository, available upon request)
 - [uno](https://github.com/jakejack13/uno): Command line based uno in OCaml, created for CS 3110
@@ -48,6 +47,7 @@
 - [Warren Yun](https://github.com/NebuDev14): fullstack engineer, helped with later iterations of the JayJay Project
 - [Farhan Naqib](https://github.com/farhannaqib): fullstack engineer and physicist, worked on and managed sos project
 #### organizations
+- [Addepar](https://addepar.com/): fintech company specializing in wealth management platforms
 - [Lockheed Martin](https://www.lockheedmartin.com/): aerospace and defense contractor
 - [TheTake](https://thetake.ai/): AI concentrated startup specializing in bringing shopping experiences to home entertainment
 - [Brain Computation Lab](https://braincomputation.org/): computational neuroscience lab at Cornell University
@@ -69,15 +69,19 @@
 - CS 4321: Databases Practicum
 - CS 4410: Operating Systems
 - CS 4411: Operating Systems Practicum
+- CS 4414: Systems Programming
 - CS 4700: Artificial Intelligence
 - CS 4820: Introduction to Algorithms
 - CS 5412: Cloud Computing
+- CS 5414: Principles of Distributed Computing
 #### Operations Research and Information Engineering (Minor)
 - ENGRI 1101: Introduction to Operations Research
 - ENGRD 2700: Engineering Statistics I
 - ORIE 3120: Tools for Machine Learning, Data Science, and Operations Research
 - ORIE 3300: Optimization I
+- ORIE 3310: Optimization II
 - ORIE 4120: Inventory, Operations, and Supply Chain Management
+- ORIE 4160: Data Science
 #### Others
 - ECE 2300: Digital Logic
 - MATH 1920: Multivariable Calculus
@@ -86,6 +90,5 @@
 
 ### How to reach me
 - Professional inquries: jck268 at cornell dot edu
-- [LinkedIn](https://www.linkedin.com/in/jacob-kerr-4a284215b/)
-- [Polywork](https://www.polywork.com/jakejack)
+- [LinkedIn](https://www.linkedin.com/in/jacob-kerr-/)
 - I cannot guarantee that I will see your message if sent to me on other platforms
