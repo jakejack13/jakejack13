@@ -23,20 +23,20 @@
 
 ### I've worked on
 #### personal projects
-- [sos](https://github.com/jakejack13/sos), a minimalistic operating system designed to run on a Raspberry Pi 4
-- [gachapy](https://github.com/jakejack13/gachapy): A gacha engine for developing gacha games in Python
-- [JayJay](https://github.com/jakejack13/JayJay-Bot): A Discord bot built with discord<span>.<span>py, the original iteration of the JayJay Project
-- [JayJayAlerts](https://github.com/jakejack13/JayJayAlerts): A Twitch alerts and animations service, created for and by https://twitch.tv/JakeJack
-- [jip](https://github.com/jakejack13/jip), simple compression with Huffman encoding
+- [sos](https://github.com/jakejack13/sos): A minimalistic operating system designed to run on a Raspberry Pi 4
+- [gachapy](https://github.com/jakejack13/gachapy): gacha engine for developing gacha games in Python
+- [JayJay](https://github.com/jakejack13/JayJay-Bot): Discord bot built with discord<span>.<span>py, the original iteration of the JayJay Project
+- [JayJayAlerts](https://github.com/jakejack13/JayJayAlerts): Twitch alerts and animations service, created for and by https://twitch.tv/JakeJack
+- [jip](https://github.com/jakejack13/jip): simple compression with Huffman encoding
 #### projects for organizations
 - [Addepar](https://addepar.com/): various new features on and improvements of end client experience 
 - [Lockheed Martin](https://www.lockheedmartin.com/): see my LinkedIn or my resume for more information
-- [TheTake](https://thetake.ai/): Proprietary search algorithm analysis and integration tests for TheTake
-- [DimensionalReduction](https://github.com/jakejack13/DimensionalReduction): Porting and analysis of various dimensional reduction algorithms in MATLAB, developed for Sjulson Lab
+- [TheTake](https://thetake.ai/): proprietary search algorithm analysis and integration tests for TheTake
+- [DimensionalReduction](https://github.com/jakejack13/DimensionalReduction): porting and analysis of various dimensional reduction algorithms in MATLAB, developed for Sjulson Lab
 - [buzcode](https://github.com/buzsakilab/buzcode): Contributions to the neuronal data processign MATLAB package from the Buzsaki Lab
 #### projects for classes
-- [Cornell Meetup](https://github.com/MitchellGray100/CornellMeetUp): a location-based social networking and messaging platform for college students to coordinate events and meetings with friends (featured at Cornell BOOM 2023)
-- [DBMS](https://github.com/MitchellGray100/DBMS): a SQL-based database management system implemented from scratch in Java, created for CS 4321 (private repository, available upon request)
+- [Cornell Meetup](https://github.com/MitchellGray100/CornellMeetUp): location-based social networking and messaging platform for college students to coordinate events and meetings with friends (featured at Cornell BOOM 2023)
+- [DBMS](https://github.com/MitchellGray100/DBMS): SQL-based database management system implemented from scratch in Java, created for CS 4321 (private repository, available upon request)
 - [egos](https://github.com/MitchellGray100/egos): operating system that runs in userspace on a host OS, created for CS 4411 (private repository, available upon request)
 - [uno](https://github.com/jakejack13/uno): Command line based uno in OCaml, created for CS 3110
 - [critterworld](https://github.com/MitchellGray100/Critter-World-README): animal simulation with programmable animal behavior, created for CS 2112 (private repository, available upon request)
@@ -54,8 +54,8 @@
 - [Sjulson Lab](https://sjulsonlab.org/): neuroscience lab at the Albert Einstein College of Medicine
 
 ### My Skills
-- Proficient languages: Java, Python, C, TypeScript/JavaScript, OCaml, MATLAB, Bash, SQL
-- Familiar languages: HTML, CSS, R, C#, C++, Lua, Verilog, Rust
+- Proficient languages: Java, Python, C, C++, TypeScript/JavaScript, Bash, SQL
+- Familiar languages: HTML, CSS, R, C#, Lua, Verilog, Rust, OCaml, MATLAB
 - Tools: Git, Docker, AWS, Azure, Unix/Linux, CI/CD (Semaphore, GitHub Workflows), CLI
 
 ### My Classes
