@@ -94,5 +94,5 @@
 
 ### How to reach me
 - Professional inquries: jck268 at cornell dot edu
-- [LinkedIn](https://www.linkedin.com/in/jacob-kerr-/)
+- [LinkedIn](https://www.linkedin.com/in/jacobckerr/)
 - I cannot guarantee that I will see your message if sent to me on other platforms
