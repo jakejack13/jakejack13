@@ -10,7 +10,7 @@
 - Good software engineering practices
 
 ### I'm currently working on
-- SPEED
+- [SPEED](https://github.com/jakejack13/SPEED): Scalable Platform for Efficient Execution of Distributed Testing, a distributed platform for running unit and integration tests efficiently, created for my Masters of Engineering project
 
 ### Ask me about
 - Distributed systems and cloud computing
