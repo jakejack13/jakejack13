@@ -1,8 +1,8 @@
 ## Hi, I'm Jacob
 
 ### About Me
-- I'm a Master of Engineering candidate in Computer Science at Cornell University with a specialization in distributed systems, cloud computing, and software engineering
-- I previously graduated in Dec 2023 from Cornell University's College of Engineering with a Bachelor of Science in Computer Science and a minor in Operations Research and Information Engineering (ORIE)
+- I'm a Master of Engineering candidate studying Computer Science at Cornell University with a specialization in distributed systems, cloud computing, and software engineering
+- I previously graduated from Cornell University's College of Engineering with a Bachelor of Science in Computer Science and a minor in Operations Research and Information Engineering (ORIE)
 - I'm an incoming software engineer at Addepar, working on server-side improvements for the End Client Experience (ECX) team
 - I'm a backend engineer with fullstack capabilities
 - I'm interested in the intersection of software engineering with distributed computing, cloud computing, and systems programming 
