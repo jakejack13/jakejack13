@@ -19,7 +19,7 @@
 - Distributed systems and cloud computing
 - Microservice architecture
 - How to make scalable backend systems
-- Systems programming
+- Software engineering
 
 ### I've worked on
 #### projects for organizations
@@ -29,7 +29,7 @@
 - [DimensionalReduction](https://github.com/jakejack13/DimensionalReduction): porting and analysis of various dimensional reduction algorithms in MATLAB, developed for Sjulson Lab
 - [buzcode](https://github.com/buzsakilab/buzcode): Contributions to the neuronal data processign MATLAB package from the Buzsaki Lab
 #### projects for classes
-- [SPEED](https://github.com/jakejack13/SPEED): distributed test execution system with dynamic sharding, my Master of Engineering capstone project (advised by Prof. Legunsen)
+- [SPEED](https://github.com/jakejack13/SPEED): Scalable Platform for Efficient Execution of Distributed Testing, a distributed test execution system with dynamic sharding, my Master of Engineering capstone project (advised by Prof. Legunsen)
 - [Cornell Meetup](https://github.com/MitchellGray100/CornellMeetUp): location-based social networking and messaging platform for college students to coordinate events and meetings with friends (featured at Cornell BOOM 2023)
 - [DBMS](https://github.com/MitchellGray100/DBMS): SQL-based database management system implemented from scratch in Java, created for CS 4321 (private repository, available upon request)
 - [egos](https://github.com/MitchellGray100/egos): operating system that runs in userspace on a host OS, created for CS 4411 (private repository, available upon request)
@@ -57,16 +57,18 @@
 ### My Skills
 - Proficient languages: Java, Python, C, C++, TypeScript/JavaScript, Bash, SQL
 - Familiar languages: HTML, CSS, R, C#, Lua, Verilog, Rust, OCaml, MATLAB
-- Tools: Git, Docker, AWS, Azure, Unix/Linux, CI/CD, CLI
+- Tools: Git, Docker, AWS, Microsoft Azure, Unix/Linux, CI/CD, CLI, Agile
 
 ### My Classes
 #### MEng in Computer Science
 - CS 5154: Software Testing
+- CS 5220: Parallel and High Performance Computing
 - CS 5412: Cloud Computing
 - CS 5414: Principles of Distributed Computing
 - CS 5999: MEng Project
 - CS 6850: The Structure of Information Networks
 - CS 7490: Systems Research Seminar
+- ORIE 5270: Big Data Technologies
 - ORIE 5330: Discrete Models
 #### BS in Computer Science (Undergraduate Major)
 - CS 2043: Unix Tools and Scripting
@@ -98,4 +100,5 @@
 ### How to reach me
 - Professional inquries: jck268 at cornell dot edu
 - [LinkedIn](https://www.linkedin.com/in/jacobckerr/)
+- Schedule a meeting on [Motion](https://usemotion.com/meet/jacobkerr/meeting)
 - I cannot guarantee that I will see your message if sent to me on other platforms
