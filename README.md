@@ -57,7 +57,7 @@
 ### My Skills
 - Proficient languages: Java, Python, C, C++, TypeScript/JavaScript, Bash, SQL
 - Familiar languages: HTML, CSS, R, C#, Lua, Verilog, Rust, OCaml, MATLAB
-- Tools: Git, Docker, AWS, Microsoft Azure, Unix/Linux, CI/CD, CLI, Agile
+- Tools: Git, Docker, Kubernetes, AWS, Microsoft Azure, Unix/Linux, CI/CD, CLI, Agile
 
 ### My Classes
 #### MEng in Computer Science
@@ -83,7 +83,7 @@
 - CS 4414: Systems Programming
 - CS 4700: Artificial Intelligence
 - CS 4820: Introduction to Algorithms
-#### Ungraduate Minor in Operations Research and Information Engineering (ORIE)
+#### Undergraduate Minor in Operations Research and Information Engineering (ORIE)
 - ENGRI 1101: Introduction to Operations Research
 - ENGRD 2700: Engineering Statistics I
 - ORIE 3120: Tools for Machine Learning, Data Science, and Operations Research
