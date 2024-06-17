@@ -1,19 +1,18 @@
 ## Hi, I'm Jacob
 
 ### About Me
-- I'm a Master of Engineering candidate studying Computer Science at Cornell University with a specialization in cloud computing, distributed systems, and software engineering
+- I'm a software engineer at Addepar, working on high-visibility client-facing products and server-side improvements for the End Client Experience (ECX) team.
+- I hold a Master of Engineering degree in Computer Science from Cornell University with a specialization in cloud computing, distributed systems, and software engineering
 - I previously graduated from Cornell University's College of Engineering with a Bachelor of Science in Computer Science and a minor in Operations Research and Information Engineering (ORIE)
-- I'm an incoming software engineer at Addepar, working on server-side improvements for the End Client Experience (ECX) team
 - I'm a backend engineer with fullstack capabilities
 - I'm interested in the intersection of software engineering with cloud computing and distributed computing 
 - I'm interested in all aspects of software engineering, including design, implementation, testing, and deployment
 
 ### I'm currently learning
-- Good software engineering practices
-- How to be a good technical lead 
+- How to build and deploy fast
 
 ### I'm currently working on
-- [SPEED](https://github.com/jakejack13/SPEED): Scalable Platform for Efficient Execution of Distributed Testing, a distributed platform for running unit and integration tests efficiently, created for my Master of Engineering capstone project
+- Addepar!
 
 ### Ask me about
 - Distributed systems and cloud computing
@@ -98,7 +97,7 @@
 - MATH 2940: Differential Equations
 
 ### How to reach me
-- Professional inquries: jck268 at cornell dot edu
+- Professional inquries: jacob.the.kerr at gmail dot com
 - [LinkedIn](https://www.linkedin.com/in/jacobckerr/)
 - Please reach out to me on LinkedIn or by email first if you'd like to schedule a meeting with me.
 - I cannot guarantee that I will see your message if sent to me on other platforms
